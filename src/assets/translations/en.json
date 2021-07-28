@@ -1,0 +1,5 @@
+{
+  "hello.world": "Hello World",
+  "button.increment": "Increment",
+  "text.count": "Count: {{value}}"
+}
